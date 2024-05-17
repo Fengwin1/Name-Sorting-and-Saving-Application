@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "luxon": "^3.4.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "copiere",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
